@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-10T19:21:27.277Z</updated>
+  <updated>2017-09-10T19:35:43.891Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ImagesTest</title>
+    <link href="http://yoursite.com/2017/09/10/ImagesTest/"/>
+    <id>http://yoursite.com/2017/09/10/ImagesTest/</id>
+    <published>2017-09-10T19:32:39.000Z</published>
+    <updated>2017-09-10T19:35:43.891Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="desert-wind-1x.jpg" alt="Images" title="Logo Title Text 1"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;desert-wind-1x.jpg&quot; alt=&quot;Images&quot; title=&quot;Logo Title Text 1&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Setup</title>
