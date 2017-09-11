@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Tom on the edge of insanity</title>
+  <title>Inspired Alberta</title>
   
-  <subtitle>A Place for Me</subtitle>
+  <subtitle>Technology, new ideas, and the best of Alberta</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-10T20:11:28.273Z</updated>
+  <updated>2017-09-11T01:36:43.158Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,23 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/09/10/hello-world/"/>
-    <id>http://yoursite.com/2017/09/10/hello-world/</id>
-    <published>2017-09-10T20:11:28.273Z</published>
-    <updated>2017-09-10T20:11:28.273Z</updated>
+    <title>The Why</title>
+    <link href="http://yoursite.com/2017/09/10/The-Why/"/>
+    <id>http://yoursite.com/2017/09/10/The-Why/</id>
+    <published>2017-09-11T00:13:02.000Z</published>
+    <updated>2017-09-11T01:36:43.158Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Why start a blog?</p><p>I don’t read news any more. I’m not sure if this has been a growing trend, or began with the “fake news” era, but I no longer find the majority of mainstream news and opinion pieces compelling. I, like many others, found myself endlessly scrolling through a set of news sites, looking for something to latch on to. Even if I found something that seemed interesting, it usually had a political bend to it, or has a negative spin to it. Sensationalist, scary news sells, I get it. But realistically, the daily outbursts of Donald Trump or the latest cultural outrage spreading virally don’t interest me. I want authentic stories about real people doing real things, and think that the future of news is local.</p><p>Instead of mindlessly scrolling through content, I’ve decided to make my own. Hope you’ll join me!</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h2 id=&quot;Background&quot;&gt;&lt;a href=&quot;#Background&quot; class=&quot;headerlink&quot; title=&quot;Background&quot;&gt;&lt;/a&gt;Background&lt;/h2&gt;&lt;p&gt;Why start a blog?&lt;/p&gt;&lt;p&gt;I don’t read n
       
     
     </summary>
     
+      <category term="General" scheme="http://yoursite.com/categories/General/"/>
+    
+    
+      <category term="Motivation" scheme="http://yoursite.com/tags/Motivation/"/>
     
   </entry>
   
