@@ -5,9 +5,9 @@
   <subtitle>Technology, new ideas, and the best of Alberta</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2017-09-11T01:36:43.158Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://inspiredalberta.ca/"/>
+  <updated>2017-09-12T16:13:14.472Z</updated>
+  <id>https://inspiredalberta.ca/</id>
   
   <author>
     <name>Thomas Krywitsky</name>
@@ -18,26 +18,26 @@
   
   <entry>
     <title>The Why</title>
-    <link href="http://yoursite.com/2017/09/10/The-Why/"/>
-    <id>http://yoursite.com/2017/09/10/The-Why/</id>
+    <link href="https://inspiredalberta.ca/2017/09/10/The-Why/"/>
+    <id>https://inspiredalberta.ca/2017/09/10/The-Why/</id>
     <published>2017-09-11T00:13:02.000Z</published>
-    <updated>2017-09-11T01:36:43.158Z</updated>
+    <updated>2017-09-12T16:13:14.472Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Why start a blog?</p><p>I don’t read news any more. I’m not sure if this has been a growing trend, or began with the “fake news” era, but I no longer find the majority of mainstream news and opinion pieces compelling. I, like many others, found myself endlessly scrolling through a set of news sites, looking for something to latch on to. Even if I found something that seemed interesting, it usually had a political bend to it, or has a negative spin to it. Sensationalist, scary news sells, I get it. But realistically, the daily outbursts of Donald Trump or the latest cultural outrage spreading virally don’t interest me. I want authentic stories about real people doing real things, and think that the future of news is local.</p><p>Instead of mindlessly scrolling through content, I’ve decided to make my own. Hope you’ll join me!</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Hello world! This blog will be my place on the internet to share what I’m up to and what I believe in. Topics will include the Alberta wilderness, renewable energy, hands on projects, as well as being a general outlet for my mind. While it may seem a bit unstructured at the moment, my goal is to adapt on the fly and see what I really enjoy writing about.</p><p>I hope you get some value out of it and will join me for the ride.</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Background&quot;&gt;&lt;a href=&quot;#Background&quot; class=&quot;headerlink&quot; title=&quot;Background&quot;&gt;&lt;/a&gt;Background&lt;/h2&gt;&lt;p&gt;Why start a blog?&lt;/p&gt;&lt;p&gt;I don’t read n
+        &lt;h2 id=&quot;Background&quot;&gt;&lt;a href=&quot;#Background&quot; class=&quot;headerlink&quot; title=&quot;Background&quot;&gt;&lt;/a&gt;Background&lt;/h2&gt;&lt;p&gt;Hello world! This blog will be my plac
       
     
     </summary>
     
-      <category term="General" scheme="http://yoursite.com/categories/General/"/>
+      <category term="General" scheme="https://inspiredalberta.ca/categories/General/"/>
     
     
-      <category term="Motivation" scheme="http://yoursite.com/tags/Motivation/"/>
+      <category term="Motivation" scheme="https://inspiredalberta.ca/tags/Motivation/"/>
     
   </entry>
   
